@@ -10,5 +10,5 @@ export const LayoutContainer = styled.div`
   border-radius: 8px;
 
   display: flex;
-  flex-direction: columns;
+  flex-direction: column;
 `
